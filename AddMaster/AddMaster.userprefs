@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{8B690A93-9C99-4A6C-8D91-A960BD369E6E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AddMaster/AddMasterPage.xaml">
+    <Files>
+      <File FileName="AddMaster/AddMasterPage.xaml" Line="15" Column="23" />
+      <File FileName="AddMaster/AddMasterPage.xaml.cs" Line="12" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AddMaster.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2F0C4375-146C-41FF-9647-67A37B1CFC9B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.AddMaster.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
