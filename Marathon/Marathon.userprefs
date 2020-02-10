@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6FB9DBB3-80B3-4BE6-A844-4DBBC07D6919}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Marathon/Models/result.cs">
+    <Files>
+      <File FileName="Marathon/MarathonPage.xaml" Line="10" Column="101" />
+      <File FileName="Marathon/MarathonPage.xaml.cs" Line="36" Column="63" />
+      <File FileName="Marathon/Models/race.cs" Line="17" Column="17" />
+      <File FileName="Marathon/Models/result.cs" Line="6" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Marathon.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2F0C4375-146C-41FF-9647-67A37B1CFC9B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Marathon.iOS>
+</Properties>
