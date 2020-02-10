@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{4D317ADD-EDD1-4FCD-9E8A-83A15650785A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarouselDemo/CarouselDemoPage.xaml.cs">
+    <Files>
+      <File FileName="CarouselDemo/CarouselDemoPage.xaml" Line="10" Column="18" />
+      <File FileName="CarouselDemo/CarouselDemoPage.xaml.cs" Line="20" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CarouselDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2F0C4375-146C-41FF-9647-67A37B1CFC9B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.CarouselDemo.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
