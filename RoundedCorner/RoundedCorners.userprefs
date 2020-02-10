@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{6901B012-8C93-4D46-92EA-C5240436CE65}|Default">
+  <MonoDevelop.Ide.ItemProperties.RoundedCorners.Droid PreferredExecutionTarget="Android.192.168.58.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RoundedCorners/RoundedCornersPage.xaml">
+    <Files>
+      <File FileName="iOS/Custom/ImageBoxRenderer.cs" Line="21" Column="34" />
+      <File FileName="Droid/Custom/ImageBoxRenderer.cs" Line="22" Column="23" />
+      <File FileName="RoundedCorners/RoundedCornersPage.xaml" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RoundedCorners.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2F0C4375-146C-41FF-9647-67A37B1CFC9B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.RoundedCorners.iOS>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
