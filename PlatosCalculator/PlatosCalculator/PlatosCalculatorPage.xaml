@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms" 
+              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+              xmlns:local="clr-namespace:PlatosCalculator" 
+              x:Class="PlatosCalculator.PlatosCalculatorPage" 
+              Padding="20,20,20,20">
+    <ContentPage>
+        <StackLayout HorizontalOptions="Center" Margin="0,20,0,0">
+            <Label Text="Optimum Age For A Mistress" FontSize="20" />
+            <Label Text="Your Age: " Margin="0,30,0,0" />
+            <Entry x:Name="txtAgeM" />
+            <Button Text="Find The Optimum Age" HorizontalOptions="FillAndExpand" Clicked="FemaleAge_Clicked" />
+            <Label Text="" x:Name="lblCalculatedAgeF" />
+            <Image Source="wedding" HorizontalOptions="Center" VerticalOptions="Center" Margin="0, 30,0,0"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage>
+        <StackLayout HorizontalOptions="Center" Margin="0,20,0,0">
+            <Label Text="Optimum Age For A Husband" FontSize="20" />
+            <Label Text="Your Age: " Margin="0,30,0,0" />
+            <Entry x:Name="txtAgeF" />
+            <Button Text="Find The Optimum Age" HorizontalOptions="FillAndExpand" Clicked="MaleAge_Clicked" />
+            <Label Text="" x:Name="lblCalculatedAgeM" />
+            <Image Source="wedding" HorizontalOptions="Center" VerticalOptions="Center" Margin="0, 30,0,0"/>
+        </StackLayout>
+    </ContentPage>
+</CarouselPage>
